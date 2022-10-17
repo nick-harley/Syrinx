@@ -1,6 +1,6 @@
 name = "Syrinx"
 uuid = "bbbfb96e-01f6-4f22-af6d-bfaecc3d456b"
-authors = ["Nicholas Harley <nick.j.harley@gmail.com>"]
+authors = ["Nick Harley <nickharley@protonmail.com>"]
 version = "0.1.0"
 
 [deps]
