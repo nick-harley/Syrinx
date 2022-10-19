@@ -12,4 +12,7 @@ __data__ = Charm.Midi.DataSet()
 
 Charm.Midi.addFile(filepath,__data__)
 
+id(t) = Charm.Midi.id("syrinx.mid",t)
+id(t,n) = Charm.Midi.id("syrinx.mid",t,n)
+
 end # module
